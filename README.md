@@ -36,13 +36,13 @@ Life Simulator is a Flutter-based simulation app that models daily life decision
 
 
 
-!\[Screenshot 1](screenshots/screen1.jpeg)
+!\[Screenshot 1](screenshots/screen1.png)
 
-!\[Screenshot 2](screenshots/screen2.jpeg)
+!\[Screenshot 2](screenshots/screen2.png)
 
-!\[Screenshot 3](screenshots/screen3.jpeg)
+!\[Screenshot 3](screenshots/screen3.png)
 
-!\[Screenshot 4](screenshots/screen4.jpeg)
+!\[Screenshot 4](screenshots/screen4.png)
 
 
 
