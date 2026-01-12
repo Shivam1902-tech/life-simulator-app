@@ -18,6 +18,8 @@ Life Simulator is a Flutter-based simulation app that models daily life decision
 
 \- APK generated and tested on real devices
 
+\- Runs fully offline
+
 
 
 \## Tech Stack
@@ -27,6 +29,24 @@ Life Simulator is a Flutter-based simulation app that models daily life decision
 \- Dart
 
 \- Android SDK
+
+
+
+\## Screenshots
+
+\## Screenshots
+
+
+
+!\[Screenshot 1](screenshots/screen1.png)
+
+!\[Screenshot 2](screenshots/screen2.png)
+
+!\[Screenshot 3](screenshots/screen3.png)
+
+!\[Screenshot 4](screenshots/screen4.png)
+
+
 
 
 
@@ -41,4 +61,12 @@ Life Simulator is a Flutter-based simulation app that models daily life decision
 \- Debugging runtime and UI issues
 
 
+
+\## Installation
+
+\- Download the APK
+
+\- Enable "Install from unknown sources"
+
+\- Install and run the app
 
